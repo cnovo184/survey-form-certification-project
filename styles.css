@@ -1,44 +1,44 @@
 .open-sans-780 {
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-  }
-  
-  #title{
-    font-family:Raleway;
-    font-size:26px;
-    color:green;
-  }
-  #description{
-    font-size:16px;
-    color:white;
-  }
-  #heading-description{
-    background-color:rgba(0,0,0,0.6);
-    text-align:center;
-  }
-  body{
-    background-color:#2F53AE;
-    font-family:Open Sans;
-    color:white;
-  }
-  label{
-    display:block;
-    margin:0.5rem 0;
-  }
-  input,textarea,select{
-    width:100%;
-    margin:10px 0 0 0;
-  }
-  #submit{
-    display:block;
-    margin:1em auto;
-    width:35%;
-    height:5%;
-    font-size:16px;
-    font-weight:bold;
-    color:white;
-    border-radius:20px;
-    background-color:#18CD35;
-  }
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#title{
+  font-family:Raleway;
+  font-size:26px;
+  color:green;
+}
+#description{
+  font-size:16px;
+  color:white;
+}
+#heading-description{
+  background-color:rgba(0,0,0,0.6);
+  text-align:center;
+}
+body{
+  background-color:#2F53AE;
+  font-family:Open Sans;
+  color:white;
+}
+label{
+  display:block;
+  margin:1rem 0;
+}
+input,textarea,select{
+  width:100%;
+  margin:10px 0 0 0;
+}
+#submit{
+  display:block;
+  margin:1em auto;
+  width:35%;
+  height:5%;
+  font-size:16px;
+  font-weight:bold;
+  color:white;
+  border-radius:20px;
+  background-color:#18CD35;
+}
